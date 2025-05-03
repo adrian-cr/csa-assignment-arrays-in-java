@@ -1,6 +1,6 @@
-# Assignment: Arrays in Java
+# Assignment: Implementing Arrays in Java
 
-The following project contains parts 2, 3, and 4 of the "Arrays in Java"
+The following project contains parts 2, 3, and 4 of the "Implementing Arrays in Java"
 assignment (part 1 has no exercise), each of which is developed
 in a separate class with the format
 "Part[ _part number_ ] " (e.g. "Part2" for part 2).
